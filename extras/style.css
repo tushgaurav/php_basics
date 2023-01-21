@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(19, 18, 18);
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.message {
+  border: 2px solid wheat;
+  padding: 1em;
+  border-radius: 10px;
+  font-weight: bold;
+  max-width: 400px;
+}
